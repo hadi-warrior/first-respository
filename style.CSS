@@ -1,0 +1,30 @@
+button{
+    color: red;
+    background-color: yellow;
+    margin-top: 100px;
+    margin-left: 0%;
+    border: 2px solid black;
+    padding:20PX 30PX;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 30px;
+}
+button:hover{
+    curser: pointer;
+    background-color: red;
+}
+h1{
+    background-color: rgb(77, 184, 77);
+    padding: 20px 30px;
+    border: 2px dashed red;
+    font-size: 30px 
+}
+img{
+    border-radius: 50%;
+    padding:20PX 30PX;
+}
+.lang{
+    background-color: whitesmoke;
+    padding: 20px 30px;
+    animation: zoom 4s ease-in 2s ;
+}
